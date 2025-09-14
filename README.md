@@ -1,11 +1,7 @@
 
-## 📊 Example — Top 10 Products by Revenue
+![Top 10 Products](print.png)
 
-Result (screenshot):
-
-![Top 10 Products](results/print.png)
-
-Result (CSV): [results/top10_products.csv](results/top10_products.csv)
+Result (CSV): [top10_products.csv](top10_products.csv)
 
 # SQL Portfolio — Retail Analytics 2025
 
