@@ -1,4 +1,12 @@
 
+## 📊 Example — Top 10 Products by Revenue
+
+Result (screenshot):
+
+![Top 10 Products](results/print.png)
+
+Result (CSV): [results/top10_products.csv](results/top10_products.csv)
+
 # SQL Portfolio — Retail Analytics 2025
 
 Este repositório apresenta análises de vendas com **SQL** usando um banco de dados fictício no varejo (2025).  
@@ -37,4 +45,4 @@ Tecnologias: **SQLite**, **SQL**, **Power BI/Excel (opcional para gráficos)**.
 
 ---
 
-**Autor:** Elias Filho (BudCoder) — Data Analyst  
+**Autor:** Elias Filho — Data Analyst  
