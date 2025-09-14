@@ -1,0 +1,121 @@
+customer_id,name,city,state,segment,signup_date
+1,Cliente 001,São Paulo,SP,Pequenas Empresas,2024-01-25
+2,Cliente 002,Rio de Janeiro,RJ,Varejo,2024-01-21
+3,Cliente 003,Fortaleza,CE,Varejo,2024-03-14
+4,Cliente 004,Maceió,AL,Pequenas Empresas,2024-05-27
+5,Cliente 005,Salvador,BA,Varejo,2024-06-02
+6,Cliente 006,Salvador,BA,Varejo,2025-08-05
+7,Cliente 007,Natal,RN,Varejo,2024-03-30
+8,Cliente 008,Belo Horizonte,MG,Varejo,2024-04-23
+9,Cliente 009,Curitiba,PR,Varejo,2025-03-12
+10,Cliente 010,Fortaleza,CE,Varejo,2025-05-05
+11,Cliente 011,Belo Horizonte,MG,Varejo,2024-04-22
+12,Cliente 012,Maceió,AL,Varejo,2024-01-02
+13,Cliente 013,Belo Horizonte,MG,Corporativo,2024-07-17
+14,Cliente 014,Belo Horizonte,MG,Varejo,2024-02-01
+15,Cliente 015,São Paulo,SP,Pequenas Empresas,2024-08-02
+16,Cliente 016,Fortaleza,CE,Corporativo,2024-02-05
+17,Cliente 017,Rio de Janeiro,RJ,Pequenas Empresas,2024-03-07
+18,Cliente 018,Salvador,BA,Varejo,2024-01-25
+19,Cliente 019,Recife,PE,Pequenas Empresas,2024-12-02
+20,Cliente 020,João Pessoa,PB,Varejo,2024-11-01
+21,Cliente 021,Rio de Janeiro,RJ,Varejo,2024-03-29
+22,Cliente 022,Rio de Janeiro,RJ,Pequenas Empresas,2024-06-14
+23,Cliente 023,Maceió,AL,Varejo,2025-02-07
+24,Cliente 024,Belo Horizonte,MG,Varejo,2024-01-22
+25,Cliente 025,Belo Horizonte,MG,Corporativo,2024-06-26
+26,Cliente 026,Rio de Janeiro,RJ,Varejo,2024-07-21
+27,Cliente 027,Natal,RN,Pequenas Empresas,2024-07-06
+28,Cliente 028,Porto Alegre,RS,Varejo,2024-02-23
+29,Cliente 029,Belo Horizonte,MG,Corporativo,2024-08-15
+30,Cliente 030,Recife,PE,Varejo,2024-02-25
+31,Cliente 031,Rio de Janeiro,RJ,Pequenas Empresas,2024-04-17
+32,Cliente 032,Salvador,BA,Corporativo,2024-03-17
+33,Cliente 033,Maceió,AL,Corporativo,2024-08-14
+34,Cliente 034,Maceió,AL,Varejo,2024-06-25
+35,Cliente 035,São Paulo,SP,Varejo,2024-05-28
+36,Cliente 036,Curitiba,PR,Varejo,2024-01-14
+37,Cliente 037,São Paulo,SP,Varejo,2024-04-09
+38,Cliente 038,João Pessoa,PB,Corporativo,2024-02-04
+39,Cliente 039,Porto Alegre,RS,Varejo,2024-12-09
+40,Cliente 040,São Paulo,SP,Varejo,2024-01-22
+41,Cliente 041,Recife,PE,Pequenas Empresas,2024-02-12
+42,Cliente 042,Maceió,AL,Corporativo,2024-07-14
+43,Cliente 043,João Pessoa,PB,Corporativo,2024-04-03
+44,Cliente 044,Curitiba,PR,Varejo,2024-02-22
+45,Cliente 045,Natal,RN,Varejo,2024-05-05
+46,Cliente 046,Belo Horizonte,MG,Pequenas Empresas,2024-08-24
+47,Cliente 047,São Paulo,SP,Varejo,2024-04-01
+48,Cliente 048,Maceió,AL,Pequenas Empresas,2024-02-07
+49,Cliente 049,Rio de Janeiro,RJ,Corporativo,2024-02-16
+50,Cliente 050,Rio de Janeiro,RJ,Pequenas Empresas,2024-02-24
+51,Cliente 051,Natal,RN,Varejo,2024-02-04
+52,Cliente 052,São Paulo,SP,Varejo,2024-02-12
+53,Cliente 053,Natal,RN,Corporativo,2024-02-07
+54,Cliente 054,Recife,PE,Varejo,2024-01-07
+55,Cliente 055,Maceió,AL,Varejo,2024-04-30
+56,Cliente 056,Recife,PE,Varejo,2024-03-12
+57,Cliente 057,Salvador,BA,Varejo,2024-05-13
+58,Cliente 058,Porto Alegre,RS,Varejo,2024-02-03
+59,Cliente 059,Salvador,BA,Varejo,2024-04-30
+60,Cliente 060,Salvador,BA,Varejo,2024-07-22
+61,Cliente 061,Natal,RN,Varejo,2024-03-26
+62,Cliente 062,Fortaleza,CE,Varejo,2024-05-15
+63,Cliente 063,Fortaleza,CE,Pequenas Empresas,2024-07-17
+64,Cliente 064,João Pessoa,PB,Pequenas Empresas,2024-01-23
+65,Cliente 065,Natal,RN,Varejo,2024-03-28
+66,Cliente 066,Rio de Janeiro,RJ,Varejo,2024-02-20
+67,Cliente 067,Belo Horizonte,MG,Varejo,2024-04-03
+68,Cliente 068,Curitiba,PR,Varejo,2024-05-09
+69,Cliente 069,Curitiba,PR,Corporativo,2024-03-28
+70,Cliente 070,Natal,RN,Varejo,2024-01-12
+71,Cliente 071,Maceió,AL,Corporativo,2024-04-30
+72,Cliente 072,Belo Horizonte,MG,Varejo,2024-05-24
+73,Cliente 073,Fortaleza,CE,Corporativo,2024-03-03
+74,Cliente 074,Natal,RN,Pequenas Empresas,2024-01-11
+75,Cliente 075,Rio de Janeiro,RJ,Pequenas Empresas,2024-05-12
+76,Cliente 076,Fortaleza,CE,Varejo,2024-12-03
+77,Cliente 077,Belo Horizonte,MG,Varejo,2024-01-22
+78,Cliente 078,Recife,PE,Varejo,2024-03-12
+79,Cliente 079,Belo Horizonte,MG,Varejo,2024-01-03
+80,Cliente 080,Maceió,AL,Varejo,2024-02-24
+81,Cliente 081,Rio de Janeiro,RJ,Pequenas Empresas,2024-05-08
+82,Cliente 082,Natal,RN,Varejo,2024-03-26
+83,Cliente 083,Salvador,BA,Varejo,2024-02-03
+84,Cliente 084,Salvador,BA,Corporativo,2024-03-21
+85,Cliente 085,Rio de Janeiro,RJ,Pequenas Empresas,2024-07-09
+86,Cliente 086,Natal,RN,Varejo,2024-03-22
+87,Cliente 087,Maceió,AL,Varejo,2024-03-23
+88,Cliente 088,João Pessoa,PB,Varejo,2024-05-04
+89,Cliente 089,Natal,RN,Corporativo,2024-03-17
+90,Cliente 090,Maceió,AL,Corporativo,2024-06-14
+91,Cliente 091,Maceió,AL,Corporativo,2024-03-08
+92,Cliente 092,Maceió,AL,Varejo,2025-04-16
+93,Cliente 093,João Pessoa,PB,Varejo,2024-02-28
+94,Cliente 094,São Paulo,SP,Varejo,2024-03-20
+95,Cliente 095,Recife,PE,Varejo,2024-11-26
+96,Cliente 096,Curitiba,PR,Corporativo,2024-01-09
+97,Cliente 097,Recife,PE,Pequenas Empresas,2025-07-07
+98,Cliente 098,Recife,PE,Varejo,2024-02-11
+99,Cliente 099,Curitiba,PR,Pequenas Empresas,2024-05-23
+100,Cliente 100,Porto Alegre,RS,Pequenas Empresas,2024-04-06
+101,Cliente 101,Curitiba,PR,Pequenas Empresas,2024-07-18
+102,Cliente 102,Belo Horizonte,MG,Pequenas Empresas,2024-01-11
+103,Cliente 103,São Paulo,SP,Varejo,2024-07-11
+104,Cliente 104,Natal,RN,Varejo,2024-03-01
+105,Cliente 105,Fortaleza,CE,Varejo,2024-02-26
+106,Cliente 106,Recife,PE,Varejo,2024-05-13
+107,Cliente 107,Fortaleza,CE,Varejo,2024-04-03
+108,Cliente 108,Salvador,BA,Varejo,2024-01-04
+109,Cliente 109,João Pessoa,PB,Varejo,2024-02-13
+110,Cliente 110,Porto Alegre,RS,Varejo,2024-03-29
+111,Cliente 111,Maceió,AL,Varejo,2025-02-07
+112,Cliente 112,São Paulo,SP,Varejo,2024-01-07
+113,Cliente 113,João Pessoa,PB,Varejo,2024-05-24
+114,Cliente 114,Rio de Janeiro,RJ,Pequenas Empresas,2025-03-22
+115,Cliente 115,Curitiba,PR,Varejo,2024-07-09
+116,Cliente 116,Fortaleza,CE,Varejo,2024-01-10
+117,Cliente 117,Maceió,AL,Varejo,2024-01-11
+118,Cliente 118,Belo Horizonte,MG,Pequenas Empresas,2024-01-08
+119,Cliente 119,Curitiba,PR,Varejo,2024-02-04
+120,Cliente 120,Salvador,BA,Pequenas Empresas,2024-05-09

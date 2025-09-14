@@ -1,0 +1,40 @@
+product_id,name,category,subcategory,unit_price,unit_cost
+1,Fone de Ouvido 1,Eletrônicos,Fone de Ouvido,155.66,104.66
+2,Fone de Ouvido 2,Eletrônicos,Fone de Ouvido,174.77,110.79
+3,Fone de Ouvido 3,Eletrônicos,Fone de Ouvido,139.04,97.55
+4,Mouse 1,Eletrônicos,Mouse,69.76,38.57
+5,Mouse 2,Eletrônicos,Mouse,78.1,44.48
+6,Mouse 3,Eletrônicos,Mouse,94.98,61.58
+7,Teclado 1,Eletrônicos,Teclado,104.46,66.52
+8,Teclado 2,Eletrônicos,Teclado,118.74,74.77
+9,Teclado 3,Eletrônicos,Teclado,138.52,77.44
+10,Webcam 1,Eletrônicos,Webcam,226.47,141.53
+11,Webcam 2,Eletrônicos,Webcam,201.17,145.1
+12,Webcam 3,Eletrônicos,Webcam,246.96,168.36
+13,Monitor 1,Eletrônicos,Monitor,881.78,588.28
+14,Monitor 2,Eletrônicos,Monitor,905.48,668.29
+15,Monitor 3,Eletrônicos,Monitor,729.24,494.9
+16,Cabo USB 1,Acessórios,Cabo USB,28.2,18.09
+17,Cabo USB 2,Acessórios,Cabo USB,26.72,16.76
+18,Cabo USB 3,Acessórios,Cabo USB,25.18,18.69
+19,Carregador 1,Acessórios,Carregador,76.11,46.72
+20,Carregador 2,Acessórios,Carregador,81.66,58.71
+21,Carregador 3,Acessórios,Carregador,75.02,51.71
+22,Power Bank 1,Acessórios,Power Bank,173.6,117.32
+23,Power Bank 2,Acessórios,Power Bank,186.52,132.56
+24,Power Bank 3,Acessórios,Power Bank,190.46,115.5
+25,Capa de Celular 1,Acessórios,Capa de Celular,42.21,30.03
+26,Capa de Celular 2,Acessórios,Capa de Celular,37.16,27.8
+27,Capa de Celular 3,Acessórios,Capa de Celular,32.85,23.17
+28,Cadeira 1,Casa & Escritório,Cadeira,614.56,379.9
+29,Cadeira 2,Casa & Escritório,Cadeira,808.7,566.82
+30,Cadeira 3,Casa & Escritório,Cadeira,669.23,381.88
+31,Luminária 1,Casa & Escritório,Luminária,120.15,85.94
+32,Luminária 2,Casa & Escritório,Luminária,131.17,80.54
+33,Luminária 3,Casa & Escritório,Luminária,117.13,64.68
+34,Organizador 1,Casa & Escritório,Organizador,65.12,47.61
+35,Organizador 2,Casa & Escritório,Organizador,58.37,43.19
+36,Organizador 3,Casa & Escritório,Organizador,56.32,41.68
+37,Suporte de Notebook 1,Casa & Escritório,Suporte de Notebook,178.68,114.3
+38,Suporte de Notebook 2,Casa & Escritório,Suporte de Notebook,165.98,101.02
+39,Suporte de Notebook 3,Casa & Escritório,Suporte de Notebook,168.07,117.73
